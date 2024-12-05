@@ -36,7 +36,7 @@
 - **Description:** A fun mobile app that encourages children to develop good habits through daily tasks and rewards.  
 - **Technologies:** Flutter, Firebase  
 - **Achievements:** Published on Google Play Store with 1,000+ downloads in the first 3 months.  
-
+https://play.google.com/store/apps/details?id=com.titanmob.kidshabitstracker
 ---
 
 ### ✨ [LED Scroller](https://github.com/your-repo-link)  
@@ -57,6 +57,3 @@
 
 ---
 
-### Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/zeddricc)  
