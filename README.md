@@ -18,7 +18,6 @@
 - **Languages:** Dart, JavaScript, TypeScript, HTML, CSS  
 - **Mobile Development:** Flutter, React Native  
 - **Frontend Development:** ReactJS, Material-UI  
-- **Backend Development:** C#, Firebase, REST APIs  
 - **Tools:** Git, GitHub, SQL Server  
 
 ---
