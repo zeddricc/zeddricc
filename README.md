@@ -39,7 +39,7 @@
 ### ⭐ [Kids Habits Tracker](https://play.google.com/store/apps/details?id=com.titanmob.kidshabitstracker)  
 - **Description:** A fun mobile app that encourages children to develop good habits through daily tasks and rewards.  
 - **Technologies:** Flutter, Firebase  
-- **Achievements:** Published on Google Play Store with 1,000+ downloads in the first 3 months.  
+- **Achievements:** Published on Google Play Store with 100+ downloads in the first 3 months.  
 https://play.google.com/store/apps/details?id=com.titanmob.kidshabitstracker
 ---
 
