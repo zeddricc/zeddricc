@@ -38,15 +38,14 @@
 
 ### ⭐ [Kids Habits Tracker](https://play.google.com/store/apps/details?id=com.titanmob.kidshabitstracker)  
 - **Description:** A fun mobile app that encourages children to develop good habits through daily tasks and rewards.  
-- **Technologies:** Flutter, Firebase  
+- **Technologies:** React Native, Typescript, Realm, Firebase
 - **Achievements:** Published on Google Play Store with 100+ downloads in the first 3 months.  
 https://play.google.com/store/apps/details?id=com.titanmob.kidshabitstracker
 ---
 
 ### ✨ [LED Scroller](https://github.com/your-repo-link)  
 - **Description:** An interactive mobile app for creating customizable LED scrolling text displays for events and promotions.  
-- **Technologies:** Flutter  
-- **Achievements:** Gained 500+ downloads within 2 months of launch.  
+- **Technologies:** React Native
 
 ---
 
