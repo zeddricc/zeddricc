@@ -55,4 +55,9 @@ https://play.google.com/store/apps/details?id=com.titanmob.kidshabitstracker
 🌌 I love combining creativity with technology to bring innovative ideas to life!  
 
 ---
+## 
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Stars](https://img.shields.io/github/stars/zeddricc/led-scroller)
 
