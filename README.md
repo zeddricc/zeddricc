@@ -45,7 +45,7 @@ https://play.google.com/store/apps/details?id=com.titanmob.kidshabitstracker
 
 ### ✨ [LED Scroller](https://github.com/your-repo-link)  
 - **Description:** An interactive mobile app for creating customizable LED scrolling text displays for events and promotions.  
-- **Technologies:** React Native
+- **Technologies:** React Native, TypeScript, Realm.
 
 ---
 
